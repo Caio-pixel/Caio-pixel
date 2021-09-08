@@ -34,7 +34,7 @@ I'm a frontend developer
   <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-pixel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+<br><br>
 <div>
 Thanks for visiting. 
  
