@@ -39,4 +39,4 @@ I'm a frontend developer
 Thanks for visiting. 
  
 Enjoy it!! o/
-<div>
+</div>
