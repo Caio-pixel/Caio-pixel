@@ -37,3 +37,5 @@ Thanks for visiting.
  
 Enjoy it!! :D
 </div>
+      
+        ![Snake animation](https://github.com/Caio-pixel/Caio-pixel/blob/output/github-contribution-grid-snake.svg)
