@@ -36,6 +36,6 @@ I'm a frontend developer
 
 
 
-- Thanks for visiting. 
+Thanks for visiting. 
  
-- Enjoy it!! o/
+Enjoy it!! o/
