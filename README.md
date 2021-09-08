@@ -1,11 +1,17 @@
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="![image](https://user-images.githubusercontent.com/75501510/132527849-19b29d37-08a7-4f56-ae25-5403ae1f7663.png)
+">
  
 # Welcome!
  
-## I'm SEU NOME AQUI!
+## I'm Caio Felipe!
  
-… Insira suas descrições aqui!
- 
+… Desenvolvedor front-end web
+
+##Minhas habilidades:
+
+![image](https://user-images.githubusercontent.com/75501510/132527429-746a04ab-2f0a-481b-9dbe-86283894b481.png)
+![image](https://user-images.githubusercontent.com/75501510/132527486-4b5473ed-41e0-4675-bc35-816be19b4359.png)
+
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
