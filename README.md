@@ -8,6 +8,15 @@
 ### About me
 I'm a frontend developer
 
+### Habilidades:
+<p align="left">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+        <img src="html.png" width="50" height="50">
+    </a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+        <img src="css3.png" width="35" height="50">
+    </a>
+</p>
 
 
 
