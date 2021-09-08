@@ -35,7 +35,8 @@ I'm a frontend developer
 </div>
 
 
-
+<div>
 Thanks for visiting. 
  
 Enjoy it!! o/
+<div>
