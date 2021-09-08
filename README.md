@@ -9,7 +9,8 @@
 
 ##Minhas habilidades:
 
-![image](https://user-images.githubusercontent.com/75501510/132527429-746a04ab-2f0a-481b-9dbe-86283894b481.png)
+<img align="right" width="200" height="200" src="![image](https://user-images.githubusercontent.com/75501510/132527429-746a04ab-2f0a-481b-9dbe-86283894b481.png)
+">
 ![image](https://user-images.githubusercontent.com/75501510/132527486-4b5473ed-41e0-4675-bc35-816be19b4359.png)
 
  
