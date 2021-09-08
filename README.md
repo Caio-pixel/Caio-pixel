@@ -18,6 +18,16 @@ I'm a frontend developer
     </a>
 </p>
 
+<details>
+  <summary>🦦 | Pretendo estudar</summary>
+  <ul>
+     <li>JavaScript</li>
+      <li>Python</li>
+     <li>PHP</li>
+     <li>SQL</li>
+  </ul>
+</details>
+
 
 
 
