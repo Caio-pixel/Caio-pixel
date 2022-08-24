@@ -3,9 +3,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Caio-pixel)](https://github.com/Caio-pixel)
 
 ### About me
-I'm a frontend developer
+Hi, my name's Caio, i'm from Brazil, and i am a front-end student and developer
 
-### Habilidades:
+### Skills:
 <p align="left">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
         <img src="html.png" width="50" height="50">
@@ -16,7 +16,7 @@ I'm a frontend developer
 </p>
 
 <details>
-  <summary>🦦 | Pretendo estudar</summary>
+  <summary>I intend to study | Pretendo estudar</summary>
   <ul>
      <li>JavaScript</li>
       <li>Python</li>
