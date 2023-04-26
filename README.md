@@ -1,9 +1,9 @@
-# Hi, I'm Caio Felipe! :D
+# Heyy, I'm Caio! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Caio-pixel)](https://github.com/Caio-pixel)
 
 ### About me
-Hi, my name's Caio, i'm from Brazil, and i am a front-end student and developer
+Hi, my name is Caio, I'm from Brazil. Recently I've been studying python and I have skills in html and css
 
 ### Skills:
 <p align="left">
