@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Caio Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiovfelipe&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer and Data scientist
+- 🔥 Fullstack student
 
 - 🔭 I’m currently studying python and web development
 
