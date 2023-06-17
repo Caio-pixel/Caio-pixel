@@ -25,7 +25,7 @@
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=caiovfelipe&show_icons=true&theme=vision-friendly-dark" alt="CaioFelipe's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="CaioFelipe's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovfelipe&layout=compact&theme=vision-friendly-dark" alt="CaioFelipe's most languages"/>
 </p>
 
 <br><br>
