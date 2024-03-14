@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/caiovfelipe/ff8b79b8526a0dd00380f22550f92a4d/raw/ac24d29d3afa0d1f1dcde580c2cd55628729cb2a/githubcard.svg"/>
+
 
 <h1 align="left">Hi, I'm Caio Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiovfelipe&color=yellow" alt="Profile views" /> </p>
