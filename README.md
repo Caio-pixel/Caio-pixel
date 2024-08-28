@@ -5,9 +5,9 @@
 
 - 🔥 Fullstack student
 
-- 🔭 I’m currently studying python and web development
+- 🔭 I’m currently studying CS
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML, CSS, Python and C**
 
 <br><br>
 
